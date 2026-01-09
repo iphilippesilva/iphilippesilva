@@ -4,7 +4,7 @@
 
 
 # Welcome!
-## I'm Felipe! Let me present a little about myself :D
+## I'm Philippe! Let me present a little about myself :D
 
 
 
