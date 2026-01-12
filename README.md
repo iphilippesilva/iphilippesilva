@@ -53,21 +53,7 @@ I am a **Systems Analysis and Development** student  based in **Brazil**. Passio
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/iphilippesilva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iphilippesilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Philippe's Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/iphilippesilva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iphilippesilva&layout=compact&theme=dracula" alt="Top Languages" />
-  </a>
-</div>
-
----
 
 ## 📫 Let's Connect!
 
